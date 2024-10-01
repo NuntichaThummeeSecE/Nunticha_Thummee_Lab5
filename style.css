@@ -219,11 +219,10 @@ audio::-webkit-media-controls-panel {
         margin-left: 43%;
     }
 
-    h1{
+    h1 {
         position: absolute;
         left: 40px;
         top: -10px;
     }
-
 
 }
