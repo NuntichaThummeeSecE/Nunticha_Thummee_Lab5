@@ -119,7 +119,12 @@ a {
     line-height: 5px;
 }
 
-.card p{
+.card2 h3, p {
+    margin-left: 5%;
+    line-height: 5px;
+}
+
+.card p, .card2 p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -142,4 +147,17 @@ h2{
     margin-right: 2%;
     margin-top: 1%;
     margin-bottom: ;
+}
+
+.card2{
+    margin-left: 2%;
+    margin-right: 2%;
+    overflow: hidden;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px 0 rgb(132, 74, 74); 
+    transition: 0.3s;
+}
+
+.card2:hover{
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0); 
 }
