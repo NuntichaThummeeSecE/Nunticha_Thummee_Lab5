@@ -88,8 +88,13 @@ a {
     width: 50%;
 }
 
-img {
-    margin-left: 2%;
-    margin-right: 2%;
+
+.card{
+    box-shadow: 0 4px 8px 0 black; 
+    transition: 0.3s;
+    width: 20%;
 }
 
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgb(255, 0, 0); 
+}
