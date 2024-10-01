@@ -111,7 +111,7 @@ a {
     margin-left: 2%;
     margin-right: 2%;
     margin-top: 1%;
-    margin-bottom: ;
+    margin-bottom: 1%;
 }
 
 .card h3, p {
@@ -146,7 +146,7 @@ h2{
     margin-left: 2%;
     margin-right: 2%;
     margin-top: 1%;
-    margin-bottom: ;
+    margin-bottom: 1%;
 }
 
 .card2{
@@ -165,3 +165,4 @@ h2{
 audio::-webkit-media-controls-panel{
     background-color:  rgb(255, 234, 234);
 }
+
